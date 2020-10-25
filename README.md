@@ -34,6 +34,10 @@ python object_tracker.py
 ### Tracking Person by Pre-trained model
 ![Alt text](tracking.gif?raw=true "video")
 
+## References
+Deep SORT Repository - https://github.com/nwojke/deep_sort
+
+
 
 
 
