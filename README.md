@@ -35,7 +35,9 @@ python object_tracker.py
 ![Alt text](tracking.gif?raw=true "video")
 
 ## References
-Deep SORT Repository - https://github.com/nwojke/deep_sort
+1. Deep SORT Repository - https://github.com/nwojke/deep_sort
+
+2. https://pylessons.com/ — Rokas Balsys
 
 
 
