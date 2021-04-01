@@ -1,5 +1,5 @@
 # ObjectTracking-DeepSORT-YOLOv3-TF2
-This repository implements YOLOv3 and Deep SORT in order to perfrom real-time object tracking. My Blog post https://medium.com/analytics-vidhya/object-tracking-using-deepsort-in-tensorflow-2-ec013a2eeb4f
+This repository implements YOLOv3 and Deep SORT in order to perform real-time object tracking. My Blog post https://medium.com/analytics-vidhya/object-tracking-using-deepsort-in-tensorflow-2-ec013a2eeb4f
 
 ## Installation
 
